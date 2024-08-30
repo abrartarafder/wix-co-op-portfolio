@@ -1,8 +1,9 @@
 # A list of all of my websites and the purpose they serve
 
-| Title     | Reasoning       | Link
-|-------------------------|-------------------------|
-| 1) Portfolio Website for Co-op Course | This portfolio website showcases my professional journey, highlighting my skills, projects, and experience in software development, data analysis, and web development. It serves as a platform to connect with potential collaborators and employers while reflecting my passion for continuous learning and innovation. It is very detailed and includes my life story. |
-| 2) Tech Portfolio Website | Portfolio that is strictly for tech, short and to the point  | [Tech Portfolio Website]([https://your-portfolio-link.com).](https://abrartarafder.github.io/)
-| 3) CV Website | A detailed resume which tells the story of my work-life and my career paths as well as skills |
-| 3) Project portfolio website | A detailed resume which tells the story of my work-life and my career paths as well as skills |
+
+| Title                        | Reasoning                                                                                                                                                                  | Link                                                       |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| 1) Portfolio Website for Co-op Course | This portfolio website showcases my professional journey, highlighting my skills, projects, and experience in software development, data analysis, and web development. It serves as a platform to connect with potential collaborators and employers while reflecting my passion for continuous learning and innovation. It is very detailed and includes my life story. | [Co-op Portfolio Website](https://your-portfolio-link.com)  |
+| 2) Tech Portfolio Website    | Portfolio that is strictly for tech, short and to the point                                                                                                                | [Tech Portfolio Website](https://abrartarafder.github.io/)  |
+| 3) CV Website                | A detailed resume that tells the story of my work life, career paths, and skills                                                                                           | [CV Website](https://your-cv-link.com)                      |
+| 4) Project Portfolio Website | A detailed portfolio highlighting specific projects, showcasing my technical and problem-solving skills, and providing in-depth explanations of each project.              | [Project Portfolio Website](https://your-project-link.com)  |
